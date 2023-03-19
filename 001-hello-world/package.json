@@ -1,0 +1,17 @@
+{
+  "name": "001-hello-world",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.14.1",
+    "koa-webc": "0.0.2"
+  }
+}

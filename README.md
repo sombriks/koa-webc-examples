@@ -1,2 +1,3 @@
 # koa-webc-examples
-samples of koa-webc middleware
+
+Samples of [koa-webc middleware](https://github.com/sombriks/koa-webc)
