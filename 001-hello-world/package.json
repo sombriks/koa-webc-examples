@@ -12,6 +12,6 @@
   "license": "MIT",
   "dependencies": {
     "koa": "^2.14.1",
-    "koa-webc": "0.0.2"
+    "koa-webc": "^0.0.3"
   }
 }
