@@ -20,6 +20,6 @@
     "koa": "^2.14.1",
     "koa-bodyparser": "^4.4.0",
     "koa-session": "^6.4.0",
-    "koa-webc": "^0.0.7"
+    "koa-webc": "^0.0.8"
   }
 }
