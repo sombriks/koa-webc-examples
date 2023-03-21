@@ -1,0 +1,25 @@
+{
+  "name": "004-using-with-other-middlewares",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa",
+    "webc",
+    "koa-webc",
+    "examples"
+  ],
+  "author": "Leonardo Silveira <sombriks@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@koa/router": "^12.0.0",
+    "koa": "^2.14.1",
+    "koa-bodyparser": "^4.4.0",
+    "koa-session": "^6.4.0",
+    "koa-webc": "^0.0.6"
+  }
+}

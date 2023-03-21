@@ -1,0 +1,9 @@
+<ul>
+    <script webc:type="js">
+      this.ctx.session.guesses
+        .map(q =>`<li>${q.num}</li>`).join("")
+    </script>
+</ul>
+<a href="/">back</a>
+<!-- see more about render functions here
+https://www.11ty.dev/docs/languages/webc/#javascript-render-functions-webctypejs-and-webctyperender -->
