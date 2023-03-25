@@ -1,5 +1,5 @@
 {
-  "name": "003-import-and-use-components",
+  "name": "006-webc-for-loops",
   "type": "module",
   "version": "1.0.0",
   "description": "",
@@ -17,6 +17,6 @@
   "license": "MIT",
   "dependencies": {
     "koa": "^2.14.1",
-    "koa-webc": "^0.0.8"
+    "koa-webc": "0.0.9"
   }
 }

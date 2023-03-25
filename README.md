@@ -28,3 +28,14 @@ do nothing
 However, in order to offer a more clean way to feed your templates with data,
 you can pass extra data to it when defining the middleware and also when calling
 ctx.render()
+
+## [006-webc-for-loops](006-webc-for-loops)
+
+[New in WebC 0.11.0](https://www.11ty.dev/docs/languages/webc/#webcfor-loops).
+Loop syntax landed, this is how it works.
+
+## [007-define-component](007-define-component)
+
+If you don't want to express how to import components explicitly, pass the
+`defineComponents` to koa-webc, so it will pass it to WebC so you don't have to
+webc:import every single component you wish to use.
